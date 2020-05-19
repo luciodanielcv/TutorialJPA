@@ -14,7 +14,9 @@ public class User {
 	private String name;
 	private String role;
 
-	
+	public User() {
+		
+	}
 	
 	@Override
 	public String toString() {
